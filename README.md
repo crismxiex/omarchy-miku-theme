@@ -46,7 +46,7 @@ Wallpapers can be regenerated at any size with `python make-wallpaper.py [out_di
 | orange | #ff7f6a | Numbers, constants |
 | blue | #5aa8e6 | Functions |
 | magenta | #e8348e | Miku pink: git changes, urgent |
-| brown | #7a5c6e | Rare accents |
+| brown | #4f8a8f | Required slot; set to a dim teal so no brown appears |
 | bright_red | #f26591 | Pink-red alerts |
 | bright_magenta | #f25ca6 | Search matches, notifications |
 | bright_cyan | #82e6de | Light teal highlights |
