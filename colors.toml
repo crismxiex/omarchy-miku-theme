@@ -1,0 +1,36 @@
+mode = "dark"
+
+accent = "#39c5bb"
+selection = "#137a7f"
+muted = "#86939e"
+
+background = "#0e1618"
+dark_background = "#0a1113"
+darker_background = "#070d0f"
+lighter_background = "#1b2a2e"
+
+foreground = "#cfe3e4"
+dark_foreground = "#62757c"
+light_foreground = "#dcecec"
+bright_foreground = "#eaf7f6"
+
+red = "#e5566e"
+yellow = "#e8c27e"
+orange = "#f3a07e"
+green = "#7dd39a"
+cyan = "#39c5bb"
+blue = "#5aa8e6"
+magenta = "#e8348e"
+brown = "#8a6a55"
+
+bright_red = "#f26591"
+bright_yellow = "#f3d9a0"
+bright_green = "#a3ebb8"
+bright_cyan = "#82e6de"
+bright_blue = "#8cc6f2"
+bright_magenta = "#f25ca6"
+
+# Extra keys some templates read directly
+cursor = "#39c5bb"
+selection_foreground = "#eaf7f6"
+selection_background = "#137a7f"
