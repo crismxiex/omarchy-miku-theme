@@ -17,7 +17,7 @@ theme[proc_box]="#39c5bb"
 theme[div_line]="#2a3c41"
 
 theme[temp_start]="#39c5bb"
-theme[temp_mid]="#e8c27e"
+theme[temp_mid]="#f0e05a"
 theme[temp_end]="#e8348e"
 
 theme[cpu_start]="#137a7f"

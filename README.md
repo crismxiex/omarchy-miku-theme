@@ -42,15 +42,15 @@ Wallpapers can be regenerated at any size with `python make-wallpaper.py [out_di
 | muted | #86939e | Steel: comments, inactive borders, muted UI (5.8:1) |
 | red | #e5566e | Errors, deletions |
 | green | #7dd39a | Strings, additions |
-| yellow | #e8c27e | Warnings |
-| orange | #f3a07e | Numbers, constants |
+| yellow | #f0e05a | Warnings |
+| orange | #ff7f6a | Numbers, constants |
 | blue | #5aa8e6 | Functions |
 | magenta | #e8348e | Miku pink: git changes, urgent |
-| brown | #8a6a55 | Rare accents |
+| brown | #7a5c6e | Rare accents |
 | bright_red | #f26591 | Pink-red alerts |
 | bright_magenta | #f25ca6 | Search matches, notifications |
 | bright_cyan | #82e6de | Light teal highlights |
-| bright_green / bright_yellow / bright_blue | #a3ebb8 / #f3d9a0 / #8cc6f2 | Bright ANSI variants |
+| bright_green / bright_yellow / bright_blue | #a3ebb8 / #e9f57d / #8cc6f2 | Bright ANSI variants |
 
 ## Credits
 
